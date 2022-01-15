@@ -1,4 +1,4 @@
 # kaggle-comps
 Simple solutions of Kaggle competitions and analysis of datasets
 
-Not very thorough EDA and feature engineering:D
+Titanic: Not very thorough EDA and feature engineering:D, just solved in the simplest way possible
